@@ -1,0 +1,9 @@
+speaker_id,movie_id,conversation_id,text,clean_text
+u64,m4,L4567,"Hey, what about me?",
+u64,m4,L4562,"He's just kiddin', you just keep doin' what I tell ya, you'll be okay.",
+u64,m4,L4506,They always let me do anything. I don't want to pay for it.  I never paid for it in my life.,
+u64,m4,L4506,I never paid for it in my life.,
+u64,m4,L4506,Pay money?,
+u64,m4,L4501,"Whaddya mean, buy?",
+u64,m4,L4501,I ain't tired yet.,
+u64,m4,L4453,"You got a real big mouth, convict.",
